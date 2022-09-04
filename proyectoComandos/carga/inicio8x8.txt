@@ -1,0 +1,23 @@
+-- MAPA: tipoMapa#celdaDelDisfraz#
+MAPA#8x8#1#
+-- ALIADOS: Nombre#turno#celdaActual#Marca#Ruta#
+BOINAVERDE#Butcher#4#1#A#ESEEOOSSOOESOSSEEEEEEES#
+ZAPADOR#Fireman#1#6#Z#OSOSOSSEEEESSOSES#
+ESPIA#Frenchy#8#7#E#OOOOOOSEEESSEESESSSS#
+-- NAZIS
+GENERAL#Adolf#1#27#G#SSSEEENNENNOOOO#
+GENERAL#Stahl#1#24#G#NNNSSS#
+GENERAL#Hans-Jürgen#1#21#G#OOSEEEENOO#
+SOLDADO#Theodor#1#5#S#OSSEONNE#
+SOLDADO#Rudolf#1#57#S#NEEESONOOS#
+SOLDADO#Andreas#1#16#S#SNNNSS#
+SOLDADO#Sam#1#8#S#SSNNNS#
+SOLDADO#Franz#1#46#S#SENO#
+SOLDADO#Fritz#1#22#S#OOOSEEEENO#
+SOLDADO#Bastian#1#23#S#OOOOSEEEEN#
+-- OBRAS DE ARTE: Código#celda#nombre#autor
+OBRAARTE#1#5#Retrato del Dr. Gachet#Vincent Van Gogh#
+OBRAARTE#2#12#Dama con un armiño#Leonardo Da Vinci#
+OBRAARTE#3#46#Plaza de la concordia#Edgar Degas#
+OBRAARTE#4#24#La Virgen de Brujas#Miguel Ángel#
+OBRAARTE#5#50#El astrónomo#Johannes Vermeer#

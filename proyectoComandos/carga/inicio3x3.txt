@@ -1,0 +1,10 @@
+-- MAPA: tipoMapa#celdaDelDisfraz#
+MAPA#3x3#4#
+-- ALIADOS: Nombre#turno#celdaActual#Marca#Ruta#
+ESPIA#Frenchy#1#0#E#SSOEE#
+BOINAVERDE#Butcher#2#0#A#SENOSSEE#
+-- NAZIS
+GENERAL#Adolf#1#2#G#OSNE#
+-- OBRAS DE ARTE: Código#celda#nombre#autor
+OBRAARTE#1#4#Plaza de la concordia#Edgar Degas#
+OBRAARTE#3#6#Retrato del Dr. Gachet#Vincent Van Gogh#

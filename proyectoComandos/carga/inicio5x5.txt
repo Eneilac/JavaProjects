@@ -1,0 +1,13 @@
+-- MAPA: tipoMapa#celdaDelDisfraz#
+MAPA#5x5#10#
+-- ALIADOS: Nombre#turno#celdaActual#Marca#Ruta#
+BOINAVERDE#Butcher#3#0#A#OEESSSESEE#
+ZAPADOR#Fireman#1#9#Z#NSOOSSSEE#
+ESPIA#Frenchy#1#20#E#NNNEESSSEE#
+-- NAZIS
+SOLDADO#Adolf#1#10#S#EO#
+SOLDADO#Theodor#1#4#S#OOEE#
+-- OBRAS DE ARTE: Código#celda#nombre#autor
+OBRAARTE#1#7#El astrónomo#Johannes Vermeer#
+OBRAARTE#2#4#Dama con un armiño#Leonardo Da Vinci#
+OBRAARTE#3#11#La Virgen de Brujas#Miguel Ángel#
